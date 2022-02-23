@@ -12,8 +12,13 @@ public class PrimaryController {
     }
     
     public void Controller(ActionEvent event){
+<<<<<<< HEAD
+    int a = 10;
+    int b = 20;
+=======
     int a = 100;
     int b = 200;
+>>>>>>> main
     int c = a + b;
     }
 }
