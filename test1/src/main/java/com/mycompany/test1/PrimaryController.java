@@ -12,6 +12,8 @@ public class PrimaryController {
     }
     
     public void Controller(ActionEvent event){
-    
+    int a = 100;
+    int b = 200;
+    int c = a + b;
     }
 }
